@@ -21,8 +21,8 @@ I am currently planning a new project with GraphQL, Nest and Next.js as well as 
 ### [Near:](https://github.com/lthemis/Near)
 E-commerce solution providing a flawless proximity-based shopping experience.
 
-• Designed and developed the full-stack application from scratch for a week-long hackathon.
-• Implemented client and the underlying API, data model, geocoding, and authentication.
+• Designed and developed the full-stack application from scratch for a week-long hackathon.  
+• Implemented client and the underlying API, data model, geocoding, and authentication.  
 
 • Created using: React, Express, MongoDB, Mongoose, ReactHookForm, Auth0.
 ### [LinkUp:](https://github.com/rbrtrfl/linkup)
