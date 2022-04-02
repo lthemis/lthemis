@@ -18,6 +18,27 @@ I am currently planning a new project with GraphQL, Nest and Next.js as well as 
 ### CV: [Linkedin](https://www.linkedin.com/in/lukasztt/)
 
 ## Main projects: 
-### [Near: ](https://github.com/lthemis/Near)
-### [LinkUp: ](https://github.com/rbrtrfl/linkup)
-### [DevTracker: ](https://github.com/lthemis/DevTracker)
+### [Near:](https://github.com/lthemis/Near)
+E-commerce solution providing a flawless proximity-based shopping experience.
+
+• Designed and developed the full-stack application from scratch for a week-long hackathon.
+• Implemented client and the underlying API, data model, geocoding, and authentication.
+
+• Created using: React, Express, MongoDB, Mongoose, ReactHookForm, Auth0.
+### [LinkUp:](https://github.com/rbrtrfl/linkup)
+Social media product designed to bringing people closer through group activities. 
+
+• Worked with a team of 5 developers.
+• Shared project management responsibilities, performed code reviews.
+• Worked as a full-stack developer including system design, UI / UX, testing, WebSockets, and TypeScript.
+
+Tech stack: React, Leaflet, Express, PostgreSQL, Prisma ORM, Socket.io, Typescript, Figma.
+### [DevTracker:](https://github.com/lthemis/DevTracker)
+Developed tests and refactored code in a team of two for the DevTracker's full-stack application. 
+
+• Implemented automated integration and unit tests for all API endpoints and key front-end react components. 
+• Performed a major refactor of legacy code following the DRY/SOLID method design pattern resulting in fewer API calls and a cleaner, more readable codebase.
+• Refactored the entire application to TypeScript and broken it down into reusable components improving developer experience and maintainability.
+• Utilized tools such as Postman and Chrome Dev tools to isolate and debug issues.
+
+• Tech Stack: React, TypeScript,, Recharts, Jest, Cypress, SuperTest, Express, MongoDB.
