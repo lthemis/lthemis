@@ -16,3 +16,8 @@ I am currently planning a new project with GraphQL, Nest and Next.js as well as 
 | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" /> `SASS`                    | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /> `GraphQL` |                                                                                                                                                               |                                                                                                                                                                                                    |                                                                                               |
 
 ### CV: [Linkedin](https://www.linkedin.com/in/lukasztt/)
+
+## Main projects: 
+### [Near: ](https://github.com/lthemis/Near)
+### [LinkUp: ](https://github.com/rbrtrfl/linkup)
+### [DevTracker: ](https://github.com/lthemis/DevTracker)
