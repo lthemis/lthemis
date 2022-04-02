@@ -6,10 +6,10 @@ I enjoy learning about dechnology and it's applications in the real life. In my 
 
 I am currently planning a new project with GraphQL, Nest and Next.js as well as further expand on React and TypeScript.
 
-| Frontend | Backend | Database | Design | Testing & tools
-|---|---|---|---|---|---|
-| React | Express | Postgres | Figma | Jest |
-| Angular | Koa | Mongo |   | Docker |
-| TypeScript | Socket.io | Mongose |   |   |
-| CSS | REST |   | Prisma |   |
-| SASS | GraphQL |   |   |   |
+| Frontend   | Backend    | Database | Design | Testing & tools |
+|------------|------------|----------|--------|-----------------|
+| React      | Express    | Postgres | Figma  | Jest            |
+| Angular    | Koa        | Mongo    |        | Supertest       |
+| TypeScript | Socket.io  | Mongose  |        | Docker          |
+| CSS        | REST       | Prisma   |        |                 |
+| SASS       | GraphQL    |          |        |                 |
