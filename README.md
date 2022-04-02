@@ -12,4 +12,4 @@ I am currently planning a new project with GraphQL, Nest and Next.js as well as 
 | Angular    | Koa        | Mongo    |        | Supertest       |
 | TypeScript | Socket.io  | Mongose  |        | Docker          |
 | CSS        | REST       | Prisma   |        |                 |
-| SASS       | GraphQL    |          |        |                 |
+| ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png)SASS       | GraphQL    |          |        |                 |
