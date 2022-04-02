@@ -19,26 +19,26 @@ I am currently planning a new project with GraphQL, Nest and Next.js as well as 
 
 ## Main projects: 
 ### [Near:](https://github.com/lthemis/Near)
-E-commerce solution providing a flawless proximity-based shopping experience.
+Near! is a new approach to e-commerce - it's an app providing a flawless proximity-based shopping experience, allowing you to trade directly with the local community.
 
-• Designed and developed the full-stack application from scratch for a week-long hackathon.    
-• Implemented client and the underlying API, data model, geocoding, and authentication.    
+• Designed and developed a full-stack application from scratch for a week-long hackathon.
+• Implemented client and the underlying API, data model, geocoding, and authentication.
 
-• Created using: React, Express, MongoDB, Mongoose, ReactHookForm, Auth0.  
+• Created using: React, Express, MongoDB, Mongoose, ReactHookForm, Auth0.
 ### [LinkUp:](https://github.com/rbrtrfl/linkup)
-Social media product designed to bringing people closer through group activities.   
+LinkUp is an app for creating and joining activities based on shared interests. The App enables people to meet existing friends and make new ones through shared passions and experiences. 
 
-• Worked with a team of 5 developers.  
-• Shared project management responsibilities, performed code reviews.  
-• Worked as a full-stack developer including system design, UI / UX, testing, WebSockets, and TypeScript.  
+• Worked as a full-stack engineer with a team of 5 developers.
+• Shared project management responsibilities, performed code reviews.
+• Worked on system design, REST APIs, UI / UX, testing, WebSockets, and TypeScript.
 
-Tech stack: React, Leaflet, Express, PostgreSQL, Prisma ORM, Socket.io, Typescript, Figma.  
+Tech stack: React, Leaflet, Express, PostgreSQL, Prisma ORM, Socket.io, Typescript, Figma.
 ### [DevTracker:](https://github.com/lthemis/DevTracker)
-Developed tests and refactored code in a team of two for the DevTracker's full-stack application.   
+DevTracker is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, and archiving recruitment information. 
 
-• Implemented automated integration and unit tests for all API endpoints and key front-end react components.   
-• Performed a major refactor of legacy code following the DRY/SOLID method design pattern resulting in fewer API calls and a cleaner, more readable codebase.  
-• Refactored the entire application to TypeScript and broken it down into reusable components improving developer experience and maintainability.  
-• Utilized tools such as Postman and Chrome Dev tools to isolate and debug issues.  
+• Implemented automated integration and unit tests for all API endpoints and key front-end react components. 
+• Performed a major refactor of legacy code following the DRY/SOLID method design pattern resulting in fewer API calls and a cleaner, more readable codebase.
+• Refactored legacy code following the DRY/SOLID method design pattern and moved the project to TypeScript resulting in fewer API calls and a cleaner codebase.
+• Utilized tools such as Postman and Chrome Dev tools to isolate and debug issues.
 
-• Tech Stack: React, TypeScript,, Recharts, Jest, Cypress, SuperTest, Express, MongoDB.  
+• Tech Stack: React, TypeScript,, Recharts, Jest, Cypress, SuperTest, Express, MongoDB.
