@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Lukasz 👋
 
-<!--
-**lthemis/lthemis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack Javascript software developer focused on the front-end, driven by curiosity and desire to build usefull and eye-catching products.
 
-Here are some ideas to get you started:
+I enjoy learning about dechnology and it's applications in the real life. In my carrer so far, I have focused on application of technology to financial topics working at Zalando, EY and PwC. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently planning a new project with GraphQl, Nest and Next.js as well as further expand on React and TypeScript.
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
