@@ -18,7 +18,7 @@ I am currently planning a new project with GraphQL, Nest and Next.js as well as 
 ### CV: [Linkedin](https://www.linkedin.com/in/lukasztt/)
 
 ## Main projects: 
-### Near: [Code:](https://github.com/lthemis/Near) [Live]:(https://nearshoppingapp.netlify.app/) 
+### Near: [Code:](https://github.com/lthemis/Near) [Live:](https://nearshoppingapp.netlify.app/) 
 Near! is a new approach to e-commerce - it's an app providing a flawless proximity-based shopping experience, allowing you to trade directly with the local community.
 
 • Designed and developed a full-stack application from scratch for a week-long hackathon.
