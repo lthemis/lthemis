@@ -17,7 +17,7 @@ I am currently planning a new project with GraphQL, Nest and Next.js as well as 
 
 ### CV: [Linkedin](https://www.linkedin.com/in/lukasztt/)
 
-## Main projects: 
+## Side projects: 
 ### Near: Code: [link](https://github.com/lthemis/Near). Live: [link](https://nearshoppingapp.netlify.app/) 
 Near! is a new approach to e-commerce - it's an app providing a flawless proximity-based shopping experience, allowing you to trade directly with the local community.
 
@@ -25,20 +25,3 @@ Near! is a new approach to e-commerce - it's an app providing a flawless proximi
 • Implemented client and the underlying API, data model, geocoding, and authentication.
 
 • Created using: React, Express, MongoDB, Mongoose, ReactHookForm, Auth0.
-### [LinkUp:](https://github.com/rbrtrfl/linkup)
-LinkUp is an app for creating and joining activities based on shared interests. The App enables people to meet existing friends and make new ones through shared passions and experiences. 
-
-• Worked as a full-stack engineer with a team of 5 developers.
-• Shared project management responsibilities, performed code reviews.
-• Worked on system design, REST APIs, UI / UX, testing, WebSockets, and TypeScript.
-
-Tech stack: React, Leaflet, Express, PostgreSQL, Prisma ORM, Socket.io, Typescript, Figma.
-### [DevTracker:](https://github.com/lthemis/DevTracker)
-DevTracker is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, and archiving recruitment information. 
-
-• Implemented automated integration and unit tests for all API endpoints and key front-end react components. 
-• Performed a major refactor of legacy code following the DRY/SOLID method design pattern resulting in fewer API calls and a cleaner, more readable codebase.
-• Refactored legacy code following the DRY/SOLID method design pattern and moved the project to TypeScript resulting in fewer API calls and a cleaner codebase.
-• Utilized tools such as Postman and Chrome Dev tools to isolate and debug issues.
-
-• Tech Stack: React, TypeScript,, Recharts, Jest, Cypress, SuperTest, Express, MongoDB.
