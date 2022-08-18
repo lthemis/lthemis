@@ -15,14 +15,3 @@ I am currently planning a new project with GraphQL, Nest and Next.js as well as 
 | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /> `CSS`       | <img width="16px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrGhpCu6brPEhizJYY8O27KRO-1yMvq_F_g&usqp=CAU" /> `REST`       | <img width="16px" src="https://thecodebarbarian.com/images/mongoose5.png" />`Mongoose`                                                                       | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> `TypeScript`                                                                      |
 | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />   `SASS`                  | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" /> `GraphQL` |                                                                                                                                                              | <img width="16px" src="https://openwrt.org/_media/media/homepage-docker-logo.png" /> `Docker`                                                                                                      |
 | <img width="16px" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" /> `chakra`                                                 |                                                                                                                                             |                                                                                                                                                              |                                                                                                                                                                                                    |                                                                                     |
-
-### CV: [Linkedin](https://www.linkedin.com/in/lukasztt/)
-
-## Side projects: 
-### Near: Code: [link](https://github.com/lthemis/Near). Live: [link](https://nearshoppingapp.netlify.app/) 
-Near! is a new approach to e-commerce - it's an app providing a flawless proximity-based shopping experience, allowing you to trade directly with the local community.
-
-• Designed and developed a full-stack application from scratch for a week-long hackathon.
-• Implemented client and the underlying API, data model, geocoding, and authentication.
-
-• Created using: React, Express, MongoDB, Mongoose, ReactHookForm, Auth0.
